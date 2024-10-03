@@ -1825,7 +1825,7 @@ background-position: 0 -70px;
 /*END FightPad Pro Controller Styling*/
 /*BEGIN Fight Stick Controller Styling*/
 .controller.fight-stick {
-  background: url(stick-assets/base.svg) center no-repeat;
+  background: url(https://raw.githubusercontent.com/Straven/hitbox/refs/heads/main/base_redacted.svg) center no-repeat;
   height: 534px;
   width: 1122px;
 }
